@@ -1,0 +1,47 @@
+<% layout("/layouts/boilerplate") %>
+<style>
+    .signup-btn{
+        background-color: #F1C40F;
+        color: #2C3E50;
+        padding: 10px 20px;
+        border-radius: 25px;
+        border: none;
+    }
+    .signup-btn:hover{
+        background-color: #F39C12;
+    }
+</style>
+<div class="row mt-3">
+    <h1 class="col-6 offset-3">SignUp for VentureStay</h1>
+    <div class="col-6 offset-3">
+        <form method="post" action="/users/signup" class="needs-validation" novalidate>
+
+            <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <input type="text" name="username" id="username" class="form-control" required>
+                <div class="valid-feedback">
+                    Looks good!
+                </div>
+            </div>
+            
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="text" name="email" id="email" class="form-control" required>
+                <div class="invalid-feedback">
+                    Please enter your email-id!
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" name="password" id="password" class="form-control" required>
+                <div class="invalid-feedback">
+                    Please enter a password!
+                </div>
+            </div>
+
+            <button class="btn btn-outline-secondary signup-btn"><i class="fas fa-user-plus"></i> SignUp</button>
+
+        </form>
+    </div>
+</div>
