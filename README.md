@@ -69,3 +69,7 @@ If you have any questions, suggestions, or feedback, please reach out to us at [
 ## Acknowledgments
 
 Special thanks to all contributors and users who make WanderLust better every day. Your support and feedback are invaluable!
+
+## Hosted Link
+
+[go to WandeLust][https://wanderlust-qp13.onrender.com/listings]
