@@ -72,4 +72,4 @@ Special thanks to all contributors and users who make WanderLust better every da
 
 ## Hosted Link
 
-[go to WandeLust][https://wanderlust-qp13.onrender.com/listings]
+[go to WandeLust](https://wanderlust-qp13.onrender.com/listings])
