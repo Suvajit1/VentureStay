@@ -1,4 +1,4 @@
-# WanderLust
+# VentureStay
 
 VentureStay is an innovative travel planning application that empowers users to explore the world, organize their trips, and create memorable travel experiences. Whether you're planning a solo adventure, a family vacation, or a group trip, WanderLust provides the tools you need to make your journey seamless and enjoyable.
 
@@ -72,4 +72,4 @@ Special thanks to all contributors and users who make WanderLust better every da
 
 ## Hosted Link
 
-[go to WandeLust](https://wanderlust-qp13.onrender.com/listings])
+[go to VentureStay](https://venturestay.onrender.com/listings)
